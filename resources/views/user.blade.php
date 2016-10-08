@@ -1,0 +1,1 @@
+<video src="/video/video.mp4" autoplay="true"></video>
